@@ -1,3 +1,3 @@
 # kimmy clone
 
-<a href ="https://mickeymouska.itch.io/kimmy-clone">Kimmy Clone</a>
+<a href ="https://mickeymouska.itch.io/kimmy">Kimmy Clone</a>
