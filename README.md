@@ -1,6 +1,3 @@
 # kimmy clone
 
-<a href ="https://mickeymouska.itch.io/kimmy-clone-121018">Kimmy Clone</a><br>
-Problems: <br>
--Button moves around the right side of the screen, don't know why/how to anchor it to the bottom. <br>
--There's character sprites, but they won't show up. 
+<a href ="https://mickeymouska.itch.io/final-kimmy-clone">Kimmy Clone</a><br>
